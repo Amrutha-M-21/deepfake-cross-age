@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Dataset
+data/
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.avi
+
+# Trained models
+models/
+*.h5
+*.keras
+*.pth
+*.pt
+
+# Results
+results/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
